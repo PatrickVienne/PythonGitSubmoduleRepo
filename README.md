@@ -1,0 +1,2 @@
+# PythonGitSubmoduleRepo
+submodule example
